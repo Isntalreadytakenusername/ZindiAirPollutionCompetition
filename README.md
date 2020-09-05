@@ -1,4 +1,4 @@
 # ZindiAirPollutionCompetition
-Competition files. \n
+Competition files.
 
 My first Machine Learning competition
